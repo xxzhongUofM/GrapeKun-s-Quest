@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "P3",
+"productVersion": "1.0",
+"dataUrl": "GrapeKuns Quest.data.unityweb",
+"asmCodeUrl": "GrapeKuns Quest.asm.code.unityweb",
+"asmMemoryUrl": "GrapeKuns Quest.asm.memory.unityweb",
+"asmFrameworkUrl": "GrapeKuns Quest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
